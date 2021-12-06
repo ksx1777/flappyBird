@@ -1,0 +1,8 @@
+Este projeto é o início do trabalho de TCC para ano que vem.
+
+É um jogo simples de Flappy Bird, usando a biblioteca "Allegro.h" (se quiser pesquisar pra ver) multiplataforma (Win/Lin), em linguagem C.
+
+---------------
+OBS:
+
+Não precisa ser algo muito complexo, elaborado, porque não aprendemos nada relevante no curso. Se fazemos algo tão bem feito, complexo, estudado, é provavel de acontecer a mesma coisa que aconteceu na apresentação dos projetos de SE. Achou que tinhamos copiado o código fonte e plagiado...
